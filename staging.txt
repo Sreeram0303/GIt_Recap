@@ -6,3 +6,5 @@ so easier and more popular way is to
 git add . -- uploads all the documents in one go
 
 ** Depending on the use case decide which to use
+
+2021 - to create a merge conflict situation
