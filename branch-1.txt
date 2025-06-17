@@ -2,3 +2,5 @@ creating a new file in the new branch created
 
 git checkout <branch-name>  -- will switch to the <branch-name> only if the branch exists 
 Whereas, git switch -c <branch-name> will create a new branch and then switch into it
+
+FIrst Bug Fixed - jst to update
