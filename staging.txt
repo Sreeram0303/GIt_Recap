@@ -7,4 +7,8 @@ git add . -- uploads all the documents in one go
 
 ** Depending on the use case decide which to use
 
+<<<<<<< HEAD
 2025 - Merger Conflict Situation
+=======
+2021 - to create a merge conflict situation
+>>>>>>> branch-1
