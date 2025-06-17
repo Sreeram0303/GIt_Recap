@@ -7,4 +7,6 @@ git add . -- uploads all the documents in one go
 
 ** Depending on the use case decide which to use
 
-Second Merge Conflict
+
+
+2022 - second merge conflict
