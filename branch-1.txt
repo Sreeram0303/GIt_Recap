@@ -5,3 +5,5 @@ Whereas, git switch -c <branch-name> will create a new branch and then switch in
 
 FIrst Bug Fixed - jst to update
 Second Bug Fixed 
+Third Bug Fixed
+Fourth Bug Fixed
