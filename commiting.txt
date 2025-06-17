@@ -1,0 +1,3 @@
+commiting 
+
+always make sure to use the -m tag to write a commit message 

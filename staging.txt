@@ -1,0 +1,8 @@
+By running the git add the files are now ready in the stagging area to start perform (analogy)
+
+git add <file1> <file2> <file3> ..... -- difficult if we have more number of files 
+
+so easier and more popular way is to 
+git add . -- uploads all the documents in one go
+
+** Depending on the use case decide which to use
