@@ -4,3 +4,4 @@ git checkout <branch-name>  -- will switch to the <branch-name> only if the bran
 Whereas, git switch -c <branch-name> will create a new branch and then switch into it
 
 FIrst Bug Fixed - jst to update
+Second Bug Fixed 
