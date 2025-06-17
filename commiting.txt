@@ -1,3 +1,7 @@
 commiting 
 
 always make sure to use the -m tag to write a commit message 
+
+Logging 
+we can use git log to get all the commmits happened so far but in long format, to have a quick peak we can use --online flag which makes the comamnd as 
+git log --online
